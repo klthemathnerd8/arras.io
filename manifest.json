@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Arras.io",
+  "description": "Play arras.io in your browser!",
+  "version": "1.0",
+  "action": {
+    "default_popup": "arras.html",
+    "default_icon": "arras.png"
+  }
+}
